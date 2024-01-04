@@ -1,2 +1,0 @@
-# xyzscript
-xyzscript
